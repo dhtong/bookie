@@ -1,0 +1,20 @@
+[
+  {
+    "depart_start": "2025-07-18",
+    "depart_end": "2025-08-01",
+    "return_start": "2025-08-15",
+    "return_end": "2025-08-26",
+    "destinations": ["NAP", "FCO", "CDG", "MXP", "AMS", "VCE"],
+    "origins": ["ATL"],
+    "report_emails": ["xxxxx@gmail.com"]
+  },
+  {
+    "depart_start": "2025-05-28",
+    "depart_end": "2025-05-31",
+    "return_start": "2025-06-05",
+    "return_end": "2025-06-08",
+    "destinations": ["GVA"],
+    "origins": ["SEA", "SFO", "LAX"],
+    "report_emails": ["xxxxx@gmail.com"]
+  }
+]
